@@ -1,0 +1,8 @@
+.usersBlock img {
+    width: 80px;
+    border-radius: 100%;
+}
+
+.selectedPage {
+    font-family: "Arial Black";
+}

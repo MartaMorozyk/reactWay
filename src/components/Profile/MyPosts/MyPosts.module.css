@@ -1,0 +1,20 @@
+.postsBlock {
+    padding: 5px 50px;
+}
+
+.postsBlock textarea {
+    width: 900px;
+    border-radius: 15px;
+}
+
+.postsBlock button {
+    background-color: crimson;
+    color: white;
+    font-family: "Arial Black";
+    padding: 5px;
+    border-radius: 20px;
+}
+
+.posts {
+    margin-top: 10px;
+}

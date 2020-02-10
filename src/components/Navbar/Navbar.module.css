@@ -1,0 +1,21 @@
+.nav {
+    grid-area: n;
+    background-color: dimgrey;
+    padding: 20px;
+    font-family: "Arial Black";
+    margin: 4px;
+    box-shadow: 0 0 5px grey;
+}
+
+.item {
+    padding-bottom: 10px;
+}
+
+.item a {
+    color: white;
+    text-decoration: none;
+}
+
+.item a.active {
+    color: darkgrey;
+}
